@@ -1,0 +1,11 @@
+A:\RiderProjects\Randomizer\RandomizerJB\RandomizerJB\bin\Debug\RandomizerJB.exe.config
+A:\RiderProjects\Randomizer\RandomizerJB\RandomizerJB\bin\Debug\RandomizerJB.exe
+A:\RiderProjects\Randomizer\RandomizerJB\RandomizerJB\bin\Debug\RandomizerJB.pdb
+A:\RiderProjects\Randomizer\RandomizerJB\RandomizerJB\obj\Debug\RandomizerJB.csproj.AssemblyReference.cache
+A:\RiderProjects\Randomizer\RandomizerJB\RandomizerJB\obj\Debug\RandomizerJB.csproj.SuggestedBindingRedirects.cache
+A:\RiderProjects\Randomizer\RandomizerJB\RandomizerJB\obj\Debug\RandomizerJB.Properties.Resources.resources
+A:\RiderProjects\Randomizer\RandomizerJB\RandomizerJB\obj\Debug\RandomizerJB.csproj.GenerateResource.cache
+A:\RiderProjects\Randomizer\RandomizerJB\RandomizerJB\obj\Debug\RandomizerJB.csproj.CoreCompileInputs.cache
+A:\RiderProjects\Randomizer\RandomizerJB\RandomizerJB\obj\Debug\RandomizerJB.exe
+A:\RiderProjects\Randomizer\RandomizerJB\RandomizerJB\obj\Debug\RandomizerJB.pdb
+A:\RiderProjects\Randomizer\RandomizerJB\RandomizerJB\obj\Debug\RandomizerJB.Form1.resources
